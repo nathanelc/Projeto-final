@@ -2,7 +2,7 @@
 	width: 96%;
 	margin: 0 auto;
 }
-button {
+.button {
 	display: inline-block;
 	color: white;
 	text-decoration: none;
