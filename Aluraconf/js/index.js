@@ -11,6 +11,6 @@ function ativaScrollSuave(selector){
 
 }
 
-ativaSrcollSuave('a[href*=panel-about]');
-ativaSrcollSuave('a[href*=panel-speakers]');
-ativaSrcollSuave('a[href*=panel-form]');
+ativaScrollSuave('a[href*=panel-about]');
+ativaScrollSuave('a[href*=panel-speakers]');
+ativaScrollSuave('a[href*=panel-form]');
