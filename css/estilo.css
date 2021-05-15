@@ -1,4 +1,4 @@
-.header {background: url("https://github.com/nathanelc/Projeto-final-front-end-alura/blob/gh-pages/img/destaque.jpeg") no-repeat;
+.header {background: url(css/img/destaque.jpeg) no-repeat;
 	background-size: cover;
     padding-top:32px;
 }
