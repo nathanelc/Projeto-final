@@ -1,4 +1,5 @@
-.header {background: url(/img/destaque.jpeg) no-repeat;
+.header {
+	background: url(img/background/hamburg-5286863_1920.jpg) no-repeat;
 	background-size: cover;
     padding-top:32px;
 }
