@@ -1,4 +1,4 @@
-.header {background: url(css/img/destaque.jpeg) no-repeat;
+.header {background: url(/img/destaque.jpeg) no-repeat;
 	background-size: cover;
     padding-top:32px;
 }
