@@ -1,5 +1,5 @@
 .header {
-	background: url("/Projeto-final-front-end-alura/img/destaque.jpeg") no-repeat
+	background: url(../img/destaque.jpeg) no-repeat
 	background-size: cover;
     padding-top:32px;
 }
