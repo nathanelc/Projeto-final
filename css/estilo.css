@@ -1,7 +1,7 @@
 .header {
-	background: url(../img/destaque.jpeg) no-repeat
+	background: url(../img/destaque.jpeg) no-repeat;
 	background-size: cover;
-    padding-top:32px;
+    	padding-top:32px;
 }
 .header .main-menu{
 	text-align: center;
